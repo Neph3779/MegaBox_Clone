@@ -4,9 +4,8 @@
 
 **팀원: Neph, Minsson**
 
-| <img src="https://avatars.githubusercontent.com/u/67148595?v=4" alt="img" style="zoom:50%;" /> | <img src="https://avatars.githubusercontent.com/u/96630194?v=4" alt="img" style="zoom:50%;" /> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                             Neph                             |                           Minsson                            |
+**기존 레포지토리: https://github.com/Neph3779/ios-wanted-BoxOffice**  
+기존 레포지토리에서 issue를 통한 브랜치 관리, pull request등을 볼 수 있습니다.
 
 **채택한 아키텍쳐: Clean Architecture**
 
